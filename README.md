@@ -1,2 +1,2 @@
 # SVG
-查看效果 http://htmlpreview.github.io/?https://justadiv.github.io/SVG/
+查看效果 https://justadiv.github.io/SVG/svgDemo.html
